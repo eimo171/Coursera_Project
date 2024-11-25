@@ -8,6 +8,6 @@ Conducted a thorough analysis of employee survey data to identify key drivers of
 # Model Development:
 Built and evaluated multiple predictive models, including logistic regression, decision trees, and XGBoost, to accurately predict employee departure.
 # Key Achievements:
-o	Identified top factors contributing to employee turnover, including job role, work-life balance, and department-specific trends.
-o	Developed actionable insights and recommendations to enhance employee retention, reduce recruitment costs, and improve workforce satisfaction.
-o	Presented findings and model results to senior leadership, supporting data-driven decision-making for HR strategies.
+1. Identified top factors contributing to employee turnover, including job role, work-life balance, and department-specific trends.
+2. Developed actionable insights and recommendations to enhance employee retention, reduce recruitment costs, and improve workforce satisfaction.
+3. Presented findings and model results to senior leadership, supporting data-driven decision-making for HR strategies.
